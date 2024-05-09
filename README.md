@@ -1,2 +1,2 @@
-# Genetic-algorithms
+# Generic-algorithms
 My implementations of genetic algorithms
